@@ -28,3 +28,10 @@
 - 所有的input variables都有被使用了？
 - 有考慮input variables 造成corruption的情況？
 - function的建立與method的parameter的數目是否吻合？
+
+### 宇淇的補充 :
+- 是否有field或method擁有不恰當的Access Midofiers
+- 是否有不適當的Casting
+- Static method是否只使用到Static field或method
+- 是否去實作AbstractClass中的abstract method
+- 所有class、method和field都有適當的名稱

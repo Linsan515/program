@@ -30,7 +30,7 @@
 - function的建立與method的parameter的數目是否吻合？
 
 ### 宇淇的補充 :
-- 是否有field或method擁有不恰當的Access Midofiers
+- 是否有field或method擁有不恰當的Access modifiers
 - 是否有不適當的Casting
 - Static method是否只使用到Static field或method
 - 是否去實作AbstractClass中的abstract method
